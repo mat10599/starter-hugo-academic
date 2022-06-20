@@ -30,7 +30,7 @@ content:
   address:
     street:
     city: Paris
-    region: 
+    region: Ile-de-France
     postcode: 
     country: France
     country_code:
