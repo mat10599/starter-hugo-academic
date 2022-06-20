@@ -22,10 +22,10 @@ education:
   courses: 
     - course: MSc in data science for business
       institution: X-HEC
-      year: 2022
+      year: 2024
     - course: "BSc in mathematics and statistics "
       institution: "University of Warwick "
-      year: 2024
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
