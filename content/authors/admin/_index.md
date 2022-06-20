@@ -18,7 +18,7 @@ organizations:
     url: https://www.polytechnique.edu/en
   - name: "HEC "
     url: https://www.hec.edu/en
-education: []
+education:
   courses: []
 email: ""
 superuser: true
