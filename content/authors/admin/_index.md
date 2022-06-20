@@ -1,8 +1,7 @@
 ---
 title: Mathieu Nordin
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: student at X-HEC
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -23,10 +22,10 @@ education:
   courses:
     - course: MSc in data science for business
       institution: X-HEC
-      year: 2023
+      year: 2021
     - course: "BSc in mathematics and statistics "
       institution: "University of Warwick "
-      year: 2021
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
