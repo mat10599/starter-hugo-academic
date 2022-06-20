@@ -7,15 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Posts
+    url: '#posts'
+    weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
+  - name: Publications
+    url: '#featured'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+<<<<<<< HEAD
  - name: CV
    url: uploads/cv_june_2022.pdf
    weight: 70
+=======
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
+>>>>>>> parent of f7ee257 (Update menus.yaml)
