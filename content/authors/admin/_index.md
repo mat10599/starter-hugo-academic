@@ -32,4 +32,4 @@ highlight_name: true
 ---
 After graduating from the University of Warwick in mathematics and statistics in 2022, I am currently undertaking a master's in data science for business at X-HEC in France. I am open to a four-month data scientist internship in the summer 2023
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
