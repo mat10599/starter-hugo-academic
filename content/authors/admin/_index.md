@@ -9,23 +9,15 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link:https://github.com/mat10599
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link:www.linkedin.com/in/mathieu-nordin-9088b71b6
 organizations:
   - name: "Institut Polytechnique de Paris "
     url: https://www.polytechnique.edu/en
   - name: "HEC "
     url: https://www.hec.edu/en
-education:
-  courses:
-    - course: MSc in data science for business
-      institution: X-HEC
-      year: 2021
-    - course: "BSc in mathematics and statistics "
-      institution: "University of Warwick "
-      year: 2022
 email: ""
 superuser: true
 highlight_name: true
