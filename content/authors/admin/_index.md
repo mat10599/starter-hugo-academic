@@ -9,7 +9,31 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link:
+---
+title: Mathieu Nordin
+role: student at X-HEC
+bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: github
+    icon_pack: fab
+    link:https://github.com/mat10599
+  - icon: linkedin
+    icon_pack: fab
+    link:www.linkedin.com/in/mathieu-nordin-9088b71b6
+organizations:
+  - name: "Institut Polytechnique de Paris "
+    url: https://www.polytechnique.edu/en
+  - name: "HEC "
+    url: https://www.hec.edu/en
+email: ""
+superuser: true
+highlight_name: true
+---
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
