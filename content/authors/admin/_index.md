@@ -19,7 +19,13 @@ organizations:
   - name: "HEC "
     url: https://www.hec.edu/en
 education:
-  courses: []
+  courses: 
+    - course: MSc in data science for business
+      institution: X-HEC
+      year: 2022
+    - course: "BSc in mathematics and statistics "
+      institution: "University of Warwick "
+      year: 2024
 email: ""
 superuser: true
 highlight_name: true
