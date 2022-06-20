@@ -8,12 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -21,19 +15,18 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "Institut Polytechnique de Paris "
+    url: https://www.polytechnique.edu/en
+  - name: "HEC "
+    url: https://www.hec.edu/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in data science for business
+      institution: X-HEC
+      year: 2023
+    - course: "BSc in mathematics and statistics "
+      institution: "University of Warwick "
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
