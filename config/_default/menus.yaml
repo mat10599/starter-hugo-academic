@@ -24,7 +24,7 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 <<<<<<< HEAD
  - name: CV
-   url: uploads/cv_june_2022.pdf
+   url: uploads/resume.pdf
    weight: 70
 =======
 #  - name: CV
